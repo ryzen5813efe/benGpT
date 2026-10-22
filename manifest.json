@@ -1,0 +1,11 @@
+{
+  "name": "benGpT — Yapay Zekâ Asistanı",
+  "short_name": "benGpT",
+  "description": "Sorular, fikirler, çözümler ve planlar için yapay zekâ asistanı.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#071321",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
